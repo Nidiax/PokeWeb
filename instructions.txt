@@ -1,0 +1,10 @@
+# Pokeweb
+
+## Para poder ejecutar este proyecto se debe usar:
+
+- Node 22
+- pnpm 
+
+## Local
+- Ejecutar pnpm install (Esto instala las dependencias)
+- pnpm dev o node --run dev (Se ejecuta el proyecto en modo dev)
